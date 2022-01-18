@@ -1,2 +1,2 @@
 # startup
-oi
+https://paulo-sarmento.github.io/startup/
